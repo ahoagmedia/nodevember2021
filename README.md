@@ -7,3 +7,4 @@ Contact me at <a href="mailto:info@ahoagmedia.com">info@ahoagmedia.com</a>with a
 
 **BLENDER VERSIONS BY FILE**  
 _NODEVEMBER21_Day1_3Sided_packed.blend_ : Blender 3.0.0 Beta
+_NODEVEMBER21_Day1_3Sided_packed.blend_ : Blender 3.0.0 Beta - November 5th 2021 Commit
